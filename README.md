@@ -20,4 +20,8 @@ docker compose -f "docker-compose.production.yaml" up
 
 The application will be available at http://0.0.0.0:8000/api/docs/
 
-![ss](screenshots\recommendation-endpoint.jpg)
+https://github.com/rimmelasghar/Recommendation-System/blob/main/screenshots/status-endpoint.jpg
+![screenshot-1](https://github.com/rimmelasghar/Recommendation-System/blob/main/screenshots/status-endpoint.jpg)
+
+![screenshot-2](https://github.com/rimmelasghar/Recommendation-System/blob/main/screenshots/recommendation-endpoint.jpg)
+
